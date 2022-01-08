@@ -21,7 +21,7 @@ Github is a online control version platform that let us share our projects with 
 >	On git bash:
 	ssh-keygen
 
->Then we'll paste that key in the file, and use it to give permission to access our github:
+>Then we'll copy that key of the file, and use it to give permission to access our github:
 >	Directory:
 	User/.ssh/id_rsa.pub
 
